@@ -1,0 +1,9 @@
+##ignore this file##
+/target/
+/code/RD/chat_testcase/
+.idea
+__pycache__
+.pytest_cache
+report
+result.txt
+.pytest_cache
